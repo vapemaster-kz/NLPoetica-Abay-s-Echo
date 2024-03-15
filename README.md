@@ -17,5 +17,3 @@ In this repository, you will find implementations of several character-based mod
 - **Bigram Model:** A probabilistic model that leverages the statistical relationships between consecutive pairs of characters in the text to generate poetic sequences.
 - **Multi-Layer Perceptron (MLP):** A neural network architecture capable of learning intricate patterns within the text data and generating poetic compositions.
 
-
-## HiggsField --- Give me a chance!
